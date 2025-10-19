@@ -1,2 +1,3 @@
 # ManasoupGJ5
-Germans
+
+Repo for Game-Jam Strike Team
